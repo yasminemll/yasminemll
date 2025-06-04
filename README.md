@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasminemll
-- 👀 I’m interested in graphic and web dev
-- 🌱 I’m currently learning js css and html
-- ⚡ Fun fact: i love reading book and fashion !
+- 👀  I'm passionate about graphic design and web development
+- 🌱 Currently learning HTML, CSS, and JavaScript to build interactive web experiences
+- 📚 Fun fact: I'm a big fan of books and have a real love for fashion!
 
 <!---
 yasminemll/yasminemll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
